@@ -1,2 +1,2 @@
 # e-commerce
-An e-commerce web app using .net microservices and angular 
+An e-commerce web app using .net microservices, kubernetes, azure, angular and CI/CD github pipeline.
