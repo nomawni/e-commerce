@@ -38,7 +38,7 @@ jobs:
       name: Build and push
       uses: docker/build-push-action@v4
       with:
-        context: ../Products
+        context: ./../Products/
         file: ./Dockerfile
         push: true
         tags: kolon90/productservice:latest
